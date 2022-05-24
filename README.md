@@ -12,19 +12,35 @@ https://www.dosbox.com/download.php?main=1
 
 ``git clone git@github.com:devShahriar/Pacman.git``
 
-# Run dosbox emulator 
+# Run dosbox emulator you will see something like this 
 
-Now to run the project follow the steps below 
+![](https://github.com/devShahriar/Pacman/blob/master/start.png?raw=true)
 
-``mount c <path or the project >``
 
-Example : I have clone the project at disk F: folder name Pacman so the path: F:\Pacman
+# Now to run the project follow the steps below 
 
-``mount c F:\Pacman``
+## ``mount c <path or the project >``
 
-Then run 
-``c:``
+### Example : I have clone the project at disk F: folder name Pacman so the path: F:\Pacman
+
+## ``mount c F:\Pacman``
+
+![](https://github.com/devShahriar/Pacman/blob/master/mount.png?raw=true)
+
+
+## Then run 
+
+## ``c:``
+
+![](https://github.com/devShahriar/Pacman/blob/master/movec.png?raw=true)
+
 
 Run the game : 
 
-base
+## ``base``
+
+![](https://github.com/devShahriar/Pacman/blob/master/base.png?raw=true)
+
+### game will start like this 
+
+![](https://github.com/devShahriar/Pacman/blob/master/s.png?raw=true)
