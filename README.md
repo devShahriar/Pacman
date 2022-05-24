@@ -8,25 +8,22 @@
 
 https://www.dosbox.com/download.php?main=1
 
-Clone the project 
+# Clone the project 
 
-git clone git@github.com:devShahriar/Pacman.git
+``git clone git@github.com:devShahriar/Pacman.git``
 
-Run dosbox emulator 
+# Run dosbox emulator 
 
 Now to run the project follow the steps below 
 
-mount c <path or the project >
+``mount c <path or the project >``
 
 Example : I have clone the project at disk F: folder name Pacman so the path: F:\Pacman
 
-mount c F:\Pacman
+``mount c F:\Pacman``
 
-c:
-
-tasm base.asm
-
-tlink base.obj
+Then run 
+``c:``
 
 Run the game : 
 
